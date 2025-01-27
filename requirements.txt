@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langgraph
+streamlit
+fastapi
+langchain_groq
+langchain_openai
