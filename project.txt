@@ -1,0 +1,29 @@
+this project will be in three phases
+
+phase1:
+        --> Creat Ai Agent
+        --> Setup api keys for groq and tavily search
+        --> Setup LLM'S and tools
+        --> Setup Ai agents with search tool functionality
+
+
+
+phase3:
+        --> Setup Ui with streamlit(Model provider,model,system prompts ,query)
+
+
+phase4:
+        --> in this phase i will deployed this application into the hugging face and if possible
+            will also deployed in github space via ci-cd pipeline.
+
+
+Tools and Technologies:
+          1: Langgraph for react Agents -->(Reason and Act) llm will answer and will justify that answer in whole discussion
+          2: Fastapi for api call
+          3: Groq and gemini
+          4: streamlit for ui and frontend
+          5: langchain for tools
+          6: Uvicorn for hosting the app
+          7: python
+          8: pycharm
+
